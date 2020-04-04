@@ -1,6 +1,15 @@
 {
-  "private": true,
-  "name": "dumi-lib",
+  "name": "react-horse",
+  "version": "0.0.1",
+  "description": "react组件库",
+  "authors": {
+    "name": "frank",
+    "email": "shipeng0320@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:frank320/horse.git"
+  },
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",

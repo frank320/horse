@@ -1,4 +1,4 @@
-# dumi library
+# react 组件库开发(base on dumi)
 
 ## Getting Started
 

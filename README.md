@@ -1,5 +1,9 @@
 # react 组件库开发(base on dumi)
 
+## doc site
+
+[文档地址](https://frank320.github.io/horse)
+
 ## Getting Started
 
 Install dependencies,

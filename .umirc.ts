@@ -9,4 +9,7 @@ export default defineConfig({
   // mode: 'site',
   publicPath: './',
   history: { type: 'hash' },
+  resolve: {
+    includes: ['docs', 'src/components'], //配置 dumi 嗅探的文档目录
+  },
 });

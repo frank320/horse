@@ -8,8 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:frank320/horse.git"
+    "url": "git+https@github.com:frank320/horse.git"
   },
+  "license": "MIT",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",

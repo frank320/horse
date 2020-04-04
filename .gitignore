@@ -18,5 +18,5 @@
 /.umi-production
 /.umi-test
 /.env.local
-.umi
+src/.umi-production/**
 src/.umi/**

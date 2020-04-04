@@ -19,3 +19,4 @@
 /.umi-test
 /.env.local
 .umi
+src/.umi/**
